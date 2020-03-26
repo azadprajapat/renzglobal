@@ -1,0 +1,51 @@
+.bar{
+    background-color:rgb(36, 30, 14);
+    color: white;
+    height: 40px;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 300;
+    padding-top: 5px;
+    text-align: center;
+    
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+}
+
+.container a{
+    text-decoration: none;
+    color: black;
+
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.email{
+padding-left: 100px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 15%;
+
+}
+.container{
+display: flex;
+flex-direction: row;
+float: right;
+padding-top: 50px;
+padding-right: 30px;
+font-weight: 300;
+
+
+}
+.container-item{
+padding-right: 15px;
+}
