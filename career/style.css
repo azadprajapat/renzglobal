@@ -116,3 +116,12 @@ padding-right: 15px;
     background-color: rgb(219, 57, 157);
     
     }
+    .download{
+           height: 50px;
+           width: 50px;
+           font-size: 20px; 
+           background-color: green;
+           color: black;
+           text-align: center;
+           margin: 100px; 
+    }
